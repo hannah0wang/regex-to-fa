@@ -5,7 +5,7 @@ The primary goal of this project was to develop a program capable of converting 
 expression into an equivalent Non-deterministic Finite Automaton. The NFA represents the 
 behavior and patterns defined by the input regular expression. Acceptable input includes any 
 lowercase alphabet character, set of parentheses, Kleene star, and alternation.
-By leveraging algorithms and parsing techniques, the program endeavors to decipher userprovided regular expressions, character by character. The accepted input encompasses the 
+By leveraging algorithms and parsing techniques, the program endeavors to decipher user-provided regular expressions, character by character. The accepted input encompasses the 
 language of lowercase alphabet characters, parentheses for grouping and precedence, the Kleene 
 star (*) denoting zero or more occurrences, and the alternation symbol (|) offering choice or 
 branching possibilities within the regex pattern.
