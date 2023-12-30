@@ -112,6 +112,6 @@ www.geeksforgeeks.org/recursive-descent-parser/.
 “Regular Expression to ∈-NFA.” GeeksforGeeks, GeeksforGeeks, 24 Jan. 2023, 
 www.geeksforgeeks.org/regular-expression-to-nfa/. 
 
-“Shunting Yard Algorithm.” Brilliant Math & Science Wiki, brilliant.org/wiki/shunting-yardalgorithm/. Accessed 6 Dec. 2023. 
+“Shunting Yard Algorithm.” Brilliant Math & Science Wiki, brilliant.org/wiki/shunting-yard-algorithm/. Accessed 6 Dec. 2023. 
 
 “Chatgpt.” ChatGPT, openai.com/chatgpt. Accessed 6 Dec. 2023.
